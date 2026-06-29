@@ -7,8 +7,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 🎶 &nbsp;I'm really into music.\
 🤖 &nbsp;I'm presently studying AI Agents and Web Development.\
-✉️ &nbsp;You can email me at oscar.osorio1884@gmail.com! I'll try to reply as soon as I can.\
-📄 &nbsp;Feel free to check out my <a href="https://oscarosorio-dev.vercel.app" target="_blank">portfolio website</a>
+✉️ &nbsp;You can email me at hola@oscarosorio.co! I'll try to reply as soon as I can.\
+📄 &nbsp;Feel free to check out my <a href="https://oscarosorio.co" target="_blank">portfolio website</a>
 <br/>
 
 ### Tech Stack
