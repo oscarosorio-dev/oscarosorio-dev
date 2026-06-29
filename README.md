@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre Mi
 🎶 &nbsp;Me encanta la música.\
 🤖 &nbsp;Actualmente estudio Agentes de IA y Desarrollo web.\
-✉️ &nbsp;¡Puedes enviarme un correo electrónico a oscar.osorio1884@gmail.com! Intentaré responder tan pronto como pueda.\
+✉️ &nbsp;¡Puedes enviarme un correo electrónico a hola@oscarosorio.co! Intentaré responder tan pronto como pueda.\
 📄 &nbsp;Si quieres pasa por mi <a href="https://oscarosorio-dev.vercel.app" target="_blank">Portafolio web</a>
 <br/>
 
