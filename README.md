@@ -12,12 +12,42 @@
 <br/>
 
 ### Tech Stack
- 
-[![Front-End](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Front-End](https://skillicons.dev/icons?i=tailwind,pnpm)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Back-End](https://skillicons.dev/icons?i=fastapi,nestjs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Back-End](https://skillicons.dev/icons?i=postgres,redis)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![DevOPS](https://skillicons.dev/icons?i=docker,git,grafana)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-![Static Badge](https://img.shields.io/badge/LangChain-1D3C3E?style=flat-square&logo=langchain&logoColor=white&logoSize=auto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Static Badge](https://img.shields.io/badge/LangGraph-1D3C3E?style=flat-square&logo=langgraph&logoColor=white&logoSize=auto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<table align="center" style="border-collapse: collapse;">
+  <tr align="center" valign="top">
+    <td style="padding: 5px 15px;">
+      <b>Frontend</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind" height="40" alt="Frontend" /></a>
+    </td>
+    <td style="padding: 5px 15px;">
+      <b>Back-End</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,nestjs,rust" height="40" alt="Back-End" /></a>
+    </td>
+    <td style="padding: 5px 15px;">
+      <b>Tools & Runtimes</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pnpm,bun" height="40" alt="Tools" /></a>
+    </td>
+    <td style="padding: 5px 15px;">
+      <b>Databases</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" height="40" alt="Databases" /></a>
+    </td>
+  </tr>
+  <tr align="center" valign="top">
+    <td style="padding: 15px 15px 5px 15px;">
+      <b>DevOps & Observability</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana,prometheus,kubernetes" height="40" alt="DevOps" /></a>
+    </td>
+    <td style="padding: 15px 15px 5px 15px;">
+      <b>CI/CD & Git</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker,githubactions" height="40" alt="CI/CD" /></a>
+    </td>
+    <td style="padding: 15px 15px 5px 15px;">
+      <b>Cloud & Infra</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,terraform" height="40" alt="Cloud" /></a>
+    </td>
+    <td style="padding: 15px 15px 5px 15px;">
+      <b>Agents</b><br><br>
+      <img src="https://img.shields.io/badge/LangChain-1D3C3E?style=flat-square&logo=langchain&logoColor=white&logoSize=auto" alt="Cloud" />
+         <img src="https://img.shields.io/badge/LangGraph-1D3C3E?style=flat-square&logo=langgraph&logoColor=white&logoSize=auto" alt="Cloud" />
+    </td>
+  </tr>
+</table>
